@@ -1,0 +1,36 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-nav {
+    display: flex;
+}
+
+.h1 {
+    line-height: 1.7em;
+    margin-left: 20px;
+}
+
+.link-h1 {
+    text-transform: uppercase;
+    color: white;
+}
+
+.list-nav-li {
+    padding: 20px;
+    transition: all 0.3s;
+    
+}
+
+.list-nav-li:hover, .active {
+    background-color: #444;
+}
+
+.link-nav {
+    text-transform: capitalize;
+    color: white;
+}
