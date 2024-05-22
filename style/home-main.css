@@ -22,3 +22,29 @@
     letter-spacing: 0.5px;
     line-height: 1.9em;
 }
+
+/* features */
+
+.features {
+
+}
+
+.container-features {
+    max-width: 80%;
+    display: flex;
+    margin: 100px auto;
+    color: #222;
+    text-align: center;
+}
+
+.feature:nth-child(1) {
+    margin-right: 50px;
+}
+
+.header-feature {
+    margin-bottom: 15px;
+}
+
+.header-feature i {
+    margin-bottom: 15px;
+}
