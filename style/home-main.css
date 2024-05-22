@@ -25,10 +25,6 @@
 
 /* features */
 
-.features {
-
-}
-
 .container-features {
     max-width: 80%;
     display: flex;
@@ -47,4 +43,32 @@
 
 .header-feature i {
     margin-bottom: 15px;
+}
+
+/* person */
+
+.div-person {
+    height: 400px;
+}
+
+.img-person {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* reservation */
+
+.reservation {
+
+}
+
+.container-reservation {
+    max-width: 70%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.reservation-paragraph {
+    margin: 20px 0;
 }

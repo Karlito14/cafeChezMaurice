@@ -34,10 +34,19 @@ ol, ul {
     font-weight: 700;
     font-size: 14px;
     transition: all 0.3s;
+    border: none;
+    cursor: pointer;
 }
 
 .btn-dark {
-    
+    background-color: #222;
+    color: white;
+}
+
+.btn-dark:hover {
+    color: #222;
+    background-color: white;
+    border: 1px solid #222;
 }
 
 .btn-light {
