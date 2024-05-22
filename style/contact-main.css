@@ -1,0 +1,38 @@
+.main-contact {
+    margin: 100px auto;
+    min-height: 80vh;
+}
+
+.contact-container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.contact-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-container label {
+    display: block;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.contact-container input, textarea {
+    display: block;
+    width: 100%;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.contact-container textarea {
+    margin-bottom: 20px;
+    resize: none;
+}
+
+.contact-container button {
+
+}
