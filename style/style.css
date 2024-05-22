@@ -19,3 +19,33 @@ ol, ul {
     list-style: none;
 }
 
+.separator {
+    height: 5px;
+    margin: auto;
+    width: 30%;
+    background-color: #111;
+}
+
+.btn {
+    padding: 15px 25px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.btn-dark {
+    
+}
+
+.btn-light {
+    background-color: white;
+    color: #222;
+}
+
+.btn-light:hover {
+    background-color: #222;
+    color: white;
+}
