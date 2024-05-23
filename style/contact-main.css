@@ -1,6 +1,5 @@
 .main-contact {
     margin: 100px auto;
-    min-height: 80vh;
 }
 
 .contact-container {
@@ -31,8 +30,4 @@
 .contact-container textarea {
     margin-bottom: 20px;
     resize: none;
-}
-
-.contact-container button {
-
 }

@@ -21,8 +21,8 @@ ol, ul {
 
 .separator {
     height: 5px;
-    margin: auto;
-    width: 30%;
+    margin: 0 auto;
+    width: 300px;
     background-color: #111;
 }
 

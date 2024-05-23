@@ -1,0 +1,47 @@
+.header, .list-nav {
+    flex-direction: column;
+}
+
+.list-nav {
+    width: 100vw;
+    text-align: center;
+}
+
+.list-nav-li {
+    width: 100%; 
+    padding: 10px;
+}
+
+/* home main */
+.proposition-h2 {
+    font-size: 2.5rem;
+}
+
+.container-features {
+    flex-direction: column;
+    align-items: center;
+}
+
+.feature:nth-child(1) {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+
+/* location */
+.main-location {
+    flex-direction: column-reverse;
+}
+
+.location-text {
+    margin-bottom: 30px;
+}
+
+.location-map {
+    width: 100%;
+    margin-right: 0;
+}
+
+/* contact */
+.btn-contact {
+    width: 100%;
+}
