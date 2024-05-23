@@ -1,68 +1,68 @@
 .proposition-section {
-    background: url(../images/background.jpg) center / cover;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content:center;
-    color: white;
-    text-align: center;
-    padding: 80px 30px;
+  background: url(../images/background.jpg) center / cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 80px 30px;
 }
 
 .proposition-h2 {
-    margin-bottom: 20px;
-    font-size: 3rem;
+  margin-bottom: 20px;
+  font-size: 3rem;
 }
 
 .proposition-para {
-    margin: 20px 0;
-    font-size: 18px;
-    letter-spacing: 0.5px;
-    line-height: 1.9em;
+  margin: 20px 0;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  line-height: 1.9em;
 }
 
 /* features */
 
 .container-features {
-    max-width: 80%;
-    display: flex;
-    margin: 100px auto;
-    color: #222;
-    text-align: center;
+  max-width: 80%;
+  display: flex;
+  margin: 100px auto;
+  color: #222;
+  text-align: center;
 }
 
 .feature:nth-child(1) {
-    margin-right: 50px;
+  margin-right: 50px;
 }
 
 .header-feature {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .header-feature i {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 /* person */
 
 .div-person {
-    height: 400px;
+  height: 400px;
 }
 
 .img-person {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 /* reservation */
 
 .container-reservation {
-    max-width: 70%;
-    margin: 100px auto;
-    text-align: center;
+  max-width: 70%;
+  margin: 100px auto;
+  text-align: center;
 }
 
 .reservation-paragraph {
-    margin: 20px 0;
+  margin: 20px 0;
 }
