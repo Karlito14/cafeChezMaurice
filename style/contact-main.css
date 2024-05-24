@@ -18,6 +18,12 @@
   margin-top: 20px;
 }
 
+.contact-container label::after {
+  content: "*";
+  padding-left: 2px;
+  color: #666;
+}
+
 .contact-container input,
 textarea {
   display: block;
