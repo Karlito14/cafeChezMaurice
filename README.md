@@ -8,7 +8,6 @@ J'ai passé les fichiers au lighthouse pour optimiser le SEO ainsi qu'au W3C pou
 - Site responsive
 - Fichiers courts et maintenables
 - Réalisation de 3 pages
-- Récupérer de la data avec fetch
 
 ### Tester le projet
 
